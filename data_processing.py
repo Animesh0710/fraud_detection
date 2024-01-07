@@ -1,10 +1,15 @@
 print("adding all the data processing code related to fraud detection")
 
-
 a = 5
-b =7
-def sum(a,b):
-    c = a+b
-    return a
+b = 7
 
-print("added a nee function sum which is not correct")
+def sum(a,b):
+    c = a + b
+    return c
+
+print("sum function")
+
+def multiplication(a,b):
+    d = a*b
+    return b
+print("multiplication function")
